@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,status
+1,2,4/15/2025,active
+2,4,4/15/2025,active
+3,1,4/15/2025,active
+4,3,4/15/2025,active
+5,2,4/15/2025,active
+6,5,4/15/2025,active
